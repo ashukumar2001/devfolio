@@ -1,5 +1,5 @@
 # devfolio
-devfolio is portfolio website template for developers to show there skills and projects and about. 
+devfolio is portfolio website template for developers to show there skills, projects and about. 
 
 
 ## Features
@@ -168,4 +168,14 @@ Go to `style/style.css` and only change the values of this properties.
     --transistion-slow: 600ms;
 }
 ```
+
+---
+
+## Technologies used 🛠️
+
+- [Glider.js](https://glidejs.com/) - A dependency-free JavaScript ES6 slider and carousel.
+
+## Authors
+
+- **Ashu Kumar** - [https://github.com/ashukumar2001](https://github.com/ashukumar2001)
 
