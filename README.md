@@ -1,4 +1,4 @@
-# devfolio
+# devfolio ⚡️
 devfolio is portfolio website template for developers to show there skills, projects and about. 
 
 
