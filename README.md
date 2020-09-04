@@ -10,8 +10,8 @@ devfolio is portfolio website template for developers to show there skills, proj
 ⚡️ Styled with Custom CSS3\
 ⚡️ Easily Customizable
 
-To view a demo example, **[click here](https://ashukumar2001.github.io/devfolio/)**\
-To view a live example, **[click here](https://ashukumar2001.github.io/)**
+To view a demo example, **[click here](https://ashukumar2001.github.io/devfolio/index.html)**\
+To view a live example, **[click here](#)**
 
 ---
 
